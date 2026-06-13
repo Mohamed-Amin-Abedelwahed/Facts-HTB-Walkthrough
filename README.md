@@ -4,7 +4,7 @@ A professionally formatted writeup documenting the full exploitation lifecycle o
 
 ## Document Links
 * 📄 [Download / View Full Walkthrough PDF](./DOC-20260613-WA0003..pdf)
-* 🌐 [View Raw HTML Layout](https://mohamed-amin-abedelwahed.github.io/Facts-HTB-Walkthrough/Facts_HTB_Walkthrough_Professional.html)
+* 🌐 [View Raw HTML Layout](./Facts_HTB_Walkthrough_Professional.html)
 
 ## Exploit Chain Summary
 * **Initial Access:** Authenticated Path Traversal via Camaleon CMS (CVE-2024-46987) to exfiltrate an encrypted SSH private key.
