@@ -3,7 +3,7 @@
 A professionally formatted writeup documenting the full exploitation lifecycle of the **Facts.htb** machine from HackTheBox.
 
 ## Document Links
-* 📄 [Download / View Full Walkthrough PDF](./Facts_HTB_Walkthrough_v2.pdf)
+* 📄 [Download / View Full Walkthrough PDF](./DOC-20260613-WA0003.pdf)
 * 🌐 [View Raw HTML Layout](./walkthrough.html)
 
 ## Exploit Chain Summary
